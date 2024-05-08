@@ -31,7 +31,7 @@ let package = Package(
         .package(
             name: "iProov",
             url: "https://github.com/iProov/ios.git",
-            .upToNextMinor(from: "11.0.3")
+            .upToNextMinor(from: "10.3.3")
         )
     ],
     targets: [
